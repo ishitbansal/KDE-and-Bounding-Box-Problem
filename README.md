@@ -1,4 +1,4 @@
-# Kernel-Density-Estimation
+# Kernel Density Estimation and Bounding Box Problem
 
 Done as part of the course SMAI/Monsoon23
 
