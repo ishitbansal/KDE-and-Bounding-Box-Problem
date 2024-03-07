@@ -16,4 +16,4 @@ The primary objective of the bounding box problem is to accurately define the bo
 
 Using the KDE implemented, estimated the appropriate horizontal and vertical thresholds to apply to the distances between the boxes, that boxes within the same paragraphs are connected and there are no connections to boxes in other paragraphs.
 
-Visualized the density estimated and thresholded document for each of the hyperparameter settings per image.
+Visualized the density estimated and thresholded document.
